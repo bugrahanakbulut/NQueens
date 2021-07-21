@@ -1,6 +1,0 @@
-C:\Users\akbul\Desktop\workspace\CSharp\NQueens\NQueens\bin\Debug\NQueens.exe
-C:\Users\akbul\Desktop\workspace\CSharp\NQueens\NQueens\bin\Debug\NQueens.pdb
-C:\Users\akbul\Desktop\workspace\CSharp\NQueens\NQueens\obj\Debug\NQueens.csprojAssemblyReference.cache
-C:\Users\akbul\Desktop\workspace\CSharp\NQueens\NQueens\obj\Debug\NQueens.csproj.CoreCompileInputs.cache
-C:\Users\akbul\Desktop\workspace\CSharp\NQueens\NQueens\obj\Debug\NQueens.exe
-C:\Users\akbul\Desktop\workspace\CSharp\NQueens\NQueens\obj\Debug\NQueens.pdb
