@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace NQueens
+﻿namespace NQueens
 {
     internal class main
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            NQueens nQueens = new NQueens(8);
         }
     }
 }
